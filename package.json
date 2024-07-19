@@ -1,0 +1,17 @@
+{
+  "name": "blogger-pushnotification",
+  "version": "1.0.0",
+  "description": "Não precisa de ApI do blogger, apenas de uma hospedagem para assim conseguir deixar ela online(Uso a discloud: https://discloud.com).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "https://github.com/ronieremarques",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "lowdb": "^1.0.0",
+    "nanoid": "^2.1.9"
+  }
+}
